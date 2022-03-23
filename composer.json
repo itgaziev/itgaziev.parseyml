@@ -1,0 +1,16 @@
+{
+    "name": "ilyos/itgaziev_yml",
+    "authors": [
+        {
+            "name": "Gaziev Ilyos",
+            "email": "info@it-gaziev.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ITGaziev\\" : "",
+            "ITGaziev\\Classes\\" : "classes"
+        }
+    }
+}
